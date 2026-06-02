@@ -17,15 +17,18 @@ It allows users to add, view, search, update, and delete student records using f
 ---
 
 ## Folder Structure
+
+```text
 student_management_system/
 │
 ├── main.py
 ├── data/
-│ └── students.txt
+│   └── students.txt
 ├── modules/
-│ ├── student.py
-│ ├── operations.py
-│ ├── grades.py
-│ └── utils.py
+│   ├── student.py
+│   ├── operations.py
+│   ├── grades.py
+│   └── utils.py
 ├── exercises/
 └── README.md
+```
