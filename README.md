@@ -15,8 +15,24 @@ It allows users to add, view, search, update, and delete student records using f
 - Grade Calculation
 
 ---
+## Data Storage
+Stored in:
+data/students.txt
 
-## Folder Structure
+Format:
+Name,Age,Marks
+
+Example:
+John,20,85
+Alice,22,91
+
+## Tools Used
+- Python
+- File Handling
+- Functions
+- Modules
+
+---
 
 ## Folder Structure
 
