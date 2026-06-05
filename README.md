@@ -24,7 +24,7 @@ Name,Age,Marks
 
 Example:
 John,20,85
-Alice,22,91
+
 
 ## Tools Used
 - Python
